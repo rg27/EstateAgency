@@ -98,7 +98,7 @@ a:hover {
 }
 
 .text-brand {
-  color: #1a1aff;
+  color: #0f0f0f;
   font-size: 2rem;
   font-weight: 600;
 }
@@ -698,22 +698,20 @@ a:hover {
 }
 
 .navbar-default.navbar-reduce .nav-link {
-  color: #1a1aff;
+  color: #000000;
 }
 
 .navbar-default.navbar-reduce .nav-link:before {
   background-color: #ff3377;
 }
 
-.navbar-default.navbar-reduce .nav-link:hover {
-  color: #000000;
-}
+
 
 .navbar-default.navbar-reduce .show > .nav-link,
 .navbar-default.navbar-reduce .active > .nav-link,
 .navbar-default.navbar-reduce .nav-link.show,
 .navbar-default.navbar-reduce .nav-link.active {
-  color: #1a1aff;
+  color: #0f0f0f;
 }
 
 .navbar-default.navbar-reduce .navbar-brand {
